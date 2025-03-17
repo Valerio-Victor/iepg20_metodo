@@ -1,0 +1,141 @@
+---
+title: 'MÉTODO DE PESQUISA </br> (TEMA 02)'
+subtitle: 'IEPG20 - Introdução à Economia'
+author: 'Autor: Victor Valerio'
+date: 'Última atualização: `r format(Sys.Date(),"%d-%m-%Y")`'
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css: xaringan-themer.css
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      ratio: 16:9
+---
+
+```{r xaringan-themer, include=FALSE, warning=FALSE}
+# PACOTES UTILIZADOS: ----
+library(xaringanthemer)
+library(xaringanExtra)
+library(htmltools)
+
+# CONFIGURAÇÃO DA FONTE: ----
+style_mono_light(base_color = '#1c5253',
+                  text_font_size = '30px',
+                  header_h1_font_size = '3rem',
+                  header_h2_font_size = '2rem',
+                  header_h3_font_size = '1.5rem')
+
+# CONFIGURAÇÃO PADRÃO CHUNK: ----
+knitr::opts_chunk$set(echo = F,
+                      results = 'asis', 
+                      warning = F, 
+                      message = F, 
+                      error = F, 
+                      fig.align = 'center', 
+                      out.width = '100%')
+
+# RECURSOS DO SLIDE: ----
+use_scribble()
+use_search(show_icon = TRUE)
+```
+
+## MÉTODO DE PESQUISA EM ECONOMIA
+.pull-left[
+```{r, echo = F, fig.align = 'center', out.width = '75%'}
+knitr::include_graphics(
+  'https://upload.wikimedia.org/wikipedia/commons/0/04/Keynes_1933.jpg')
+```
+]
+.pull-right[
+
+> As ideias de economistas [...] são mais poderosas do que comumente se imagina [...]. Homens práticos, que acreditam ser alheios a qualquer influência intelectual são [...] escravos de economistas mortos. 
+>
+> [**John Maynard Keynes**](https://pt.wikipedia.org/wiki/John_Maynard_Keynes)
+]
+
+
+---
+## TÓPICOS ABORDADOS
+----
+
+<br>
+- [**MODELO HIPOTÉTICO-DEDUTIVO**](#modelo)
+
+<br>
+- [**ECONOMIA POSITIVA _VERSUS_ ECONOMIA NORMATIVA**](#positiva_normativa)
+
+
+---
+class: inverse, center, middle 
+name: modelo
+## MODELO HIPOTÉTICO-DEDUTIVO
+
+---
+<div style="text-align: justify">
+## MODELO HIPOTÉTICO-DEDUTIVO
+----
+
+- Antes de explicar o modelo é útil realizar algumas definições iniciais:
+
+  - **Ciências Naturais (básica)**: Física, Química, Matemática;
+  - **Ciências Naturais (aplicadas)**: Engenharias.
+  
+  <br>
+  - **Ciências Sociais (básica)**: História, Filosofia, Sociologia
+  - **Ciências Sociais (aplicadas)**: Economia.
+
+---
+<div style="text-align: justify">
+## MODELO HIPOTÉTICO-DEDUTIVO
+----
+
+- Em grande medida, a Ciência Econômica tem se desenvolvido a partir do **Método 
+de Pesquisa Hipotético-Dedutivo**;
+
+
+- A importância do método de pesquisa Hipotético-Dedutivo se relaciona ao fato 
+de a Ciência Social (básica e aplicada) possuir pouca possibilidade de 
+realização de **experimentação**;
+
+
+- Isto ocorre pois grande parte dos **fenômenos sociais não podem ser isolados 
+em laboratórios**.
+
+---
+<div style="text-align: justify">
+## MODELO HIPOTÉTICO-DEDUTIVO
+----
+
+- Em linhas gerais, realizar experimentação significa adotar uma sequência de passos: 
+
+  **1.** Isolamento do fenômeno estudado (**caso particular**);
+
+	**2.** Realização de testes;
+
+	**3.** Mensuração de resultados particulares;
+
+	**4.** Extrapolação para uma conclusão (**generalização do resultado**).
+
+
+
+
+
+
+
+
+
+
+---
+class: inverse, center, middle 
+name: positiva_normativa
+## ECONOMIA POSITIVA 
+
+<br>
+
+##_VERSUS_ 
+
+<br>
+
+##ECONOMIA NORMATIVA
