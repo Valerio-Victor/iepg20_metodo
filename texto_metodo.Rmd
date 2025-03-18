@@ -1,0 +1,76 @@
+---
+title: ""
+date: ""
+output:
+  rmdformats::html_clean:
+    highlight: kate
+---
+```{r setup, include=FALSE}
+## Global options
+knitr::opts_chunk$set(cache = TRUE)
+```
+
+<div style="text-align: justify">
+
+**CASIMIRO RIBEIRO**: E eu vim para o lado de cá chamar a atenção do presidente:
+“Aqui entre nós - não tem ninguém do Fundo ouvindo -, eles estavam 100% certos. E o
+que ele disse também é a minha opinião, e a opinião do Roberto e do Lucas, e ela
+corresponde ao interesse do país. Não basta fazer o controle monetário”. O presidente
+disse:
+
+**JUSCELINO KUBITSCHEK**: “Mas você vai aumentar as tarifas, vai aumentar o custo
+de vida; vai aumentar o transporte de avião, e vai ser uma aberração da gasolina, ih, rapaz,
+vou ser crucificado! Isso é muito bonito, chegar aqui com o parecer no pé do ouvido. Mas
+quem vai decretar esse negócio sou eu”.
+
+**CASIMIRO RIBEIRO**: Eu respondi: “Mas o senhor não tem alternativa”. Ele
+perguntou:
+
+**JUSCELINO KUBITSCHEK**: “Por quê” (?).
+
+**CASIMIRO RIBEIRO**: e eu expliquei: “O senhor vai pagar o subsídio de onde? Aquilo
+não é cobrado do usuário, o senhor vai tirar do bolso do Tesouro, e muito mais, porque,
+o preço sendo mais alto, o usuário já não usa tanto. O preço sendo mais baixo, vai ser
+usado mais do que o necessário, o senhor vai desequilibrar o balanço de pagamento, e vai
+ter que emitir e fazer uma expansão monetária, elevando-se o custo de vida”. Então, disse
+essa frase notável de político:
+
+**JUSCELINO KUBITSCHEK**: “Casemiro, você não tem sensibilidade política. Você
+não está olhando o problema político. Pode ser que, eu emitindo para cobrir déficit de
+serviço público das companhias de transporte aéreo, provoque uma emissão monetária e
+isso seja tão inflacionário ou até mais do que o impacto dos custos. Mas há diferença
+política enorme. Quando há emissão de papel moeda para atender às atividades
+econômicas, todo o mundo bate palmas, pois todo o mundo está precisando de dinheiro”.
+
+**CASIMIRO RIBEIRO**: Eu disse: “Mas dinheiro não é capital, não é renda. Não vamos
+confundir dinheiro com renda real”. Ele retrucou:
+
+**JUSCELINO KUBITSCHEK**: “Mas ninguém sabe disso, ninguém sabe. É você quem
+está falando isso. Todo o mundo fala. Outro dia o senador Viváqua disse: 'Falta dinheiro
+nesse país. Vejam o dinheiro per capita nos Estados Unidos e o dinheiro per capita do
+Brasil. É ridículo o papel moeda per capita neste país'”.
+
+**CASIMIRO RIBEIRO**: Eu disse: “A comparação está toda errada”. Juscelino
+respondeu:
+
+**JUSCELINO KUBITSCHEK**: “Pode ser que esteja errada, mas só você, o Roberto, o
+Lucas e mais uma meia dúzia de pessoas sabem. Todo o mundo acha que é falta de
+dinheiro. De modo que, quando tem mais dinheiro na praça ninguém xinga o governo.
+Quando os preços sobem, o pessoal xinga o português da quitanda, xinga o homem da
+empresa, mas não o governo. Agora, quando é o decreto, como no aumento da gasolina,
+quando é o decreto... E eu estaria fazendo no meio do governo. Se eu fizesse no início, eu
+ponho culpa no governo anterior, que me obrigou a fazer isso. O próximo governo vai
+poder fazer - guardem esses pareceres todos e não joguem fora não, porque eu acho que
+faz sentido. Mas não dá mais. Vocês me venderam esses peixes no início do governo, e
+eu fiz umas desvalorizações cambiais e uma série de coisas. Agora, no, meio, eu ponho
+culpa em quem? No próprio governo? É o reconhecimento do fracasso”.
+
+**CASIMIRO RIBEIRO**: Eu disse: “Mas é sempre tempo de corrigir”. Ele protestou:
+
+**JUSCELINO KUBITSCHEK**: “Não, essa não! Essa vocês vão vender ao governo do
+Jânio. Ele vai se candidatar, vai ganhar e vai aceitar todas essas idéias de vocês. Com
+aquele tipo carismático, ele vai tocar pau no meu governo mesmo, e vocês vão poder
+apresentar”.
+
+**CASIMIRO RIBEIRO**: O que foi exato. Jânio tornou-se candidato, ganhou, nós
+apresentamos as idéias, ele aprovou e botou em vigor.
